@@ -38,7 +38,7 @@ const Apptitude_Mt = [
     "ModuleTest","MyFinancialServices","MyProsperousBusiness","PreventionSexualAbuse","Remittances","Savings","time_Slider",'LISTADiplomaObtained',"ApptitudeDiplomaObtained",
     'IthinkAndiDecide',"ToSetUpTheBusiness","TestModuleLista"
   ];
-  const Igualdapp_Mujeres_Y_comercios_mas_productivos= [
+  const Igualdapp_Mujeres_Y_Comercios_mas_productivos= [
     "0", "1",'a', "Accounts", "Debts","DigitizeMyBusiness","Emociones","Emotion","GrowingBusiness", "Insurance", "IthinkAndDecide", "IThinkAndIDecide","MobileWallets",
     "ModuleTest","MyFinancialServices","MyProsperousBusiness","PreventionSexualAbuse","Remittances","Savings","time_Slider",'LISTADiplomaObtained',"ApptitudeDiplomaObtained",
     'IthinkAndiDecide',"ToSetUpTheBusiness","TestModuleLista"
