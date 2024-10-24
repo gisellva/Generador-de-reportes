@@ -20,7 +20,7 @@ Este proyecto es un script en JavaScript diseñado para organizar datos de un ar
 
    ```bash
    git clone 
-   cd generador-reportes-senales
+   cd generador-reportes
    npm install
 
 Uso
