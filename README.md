@@ -23,15 +23,15 @@ Este proyecto es un script en JavaScript diseñado para organizar datos de un ar
    cd generador-reportes
    npm install
 
-Uso
+## Uso
 
 Para ejecutar el script, utiliza el siguiente comando en la terminal:
 
     node Lista.js <ruta_del_archivo_excel>
 
 
-Contribución
+## Contribución
 Si deseas contribuir a este proyecto, por favor, abre un "issue" o envía un "pull request". Todas las contribuciones son bienvenidas.
 
-Licencia
+## Licencia
 Este proyecto está bajo la licencia MT.
